@@ -1,0 +1,9 @@
+.Aside {
+    position: absolute;
+    top: 16%;
+    width: 10%;
+    text-decoration: none;
+    background-color: rgb(238, 214, 178);
+    height: 100%;
+}
+
